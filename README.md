@@ -1,10 +1,10 @@
-<h2>Desafio Kotlin - Conversor de moedas.</h2>
+<h2>Aplicativo Kotlin para mostrar meu Portfolio Profissional</h2>
 
 Desafio:
 
-* Criar um projeto usando o serviço aberto do https://cdn.jsdelivr.net/
-* Converter e mostrar o Resultado da conversao. 
-* Oferecer opcoes de outras moedas.
+* Criar um projeto usando a api do github (...)
+* Lista o Resultado de projetos realizado durante a carreira. 
+* Aprender novas funcionalidade com esse projeto.
 
 Durante a sessão, sera abordada a seguinte estrutura:
 
@@ -24,9 +24,9 @@ São necessários os seguintes pré-requisitos para a execução do projeto:
 
 Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante o desafio:
 
-* [Referência da Api utilizada nesse desafio](https://cdn.jsdelivr.net/)
+* [Referência da Api utilizada nesse desafio](...)
 * [Site para conversao do json](https://www.jsonschema2pojo.org/)
-* [Referência do video-aula](https://www.youtube.com/watch?v=U3Nmw0_BMVs)
+* [Referência do video-aula(Criando um App para apresentar seu Portfolio do GitHub)](https://web.dio.me/lab/criando-um-app-para-apresentar-seu-portfolio-do-github/learning/3735829a-af5e-4473-a3f4-9fe3a3f72fe1)
 * [Referência do Android, para download](https://developer.android.com/studio?gclsrc=aw.ds&gclid=CjwKCAjw3cSSBhBGEiwAVII0Z6c5VlwQmwxm9xTkx3n31Yoks0qt-s_610V5poFjtrHzxgatqIIxeRoC2usQAvD_BwE)
 * [Site oficial do Android](https://developer.android.com/)
 * [Artigos - Retrofit](https://medium.com/@alifyzfpires/consumindo-api-rest-com-retrofit-kotlin-no-android-abba52820cc)
