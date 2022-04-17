@@ -1,7 +1,8 @@
-package com.devtvas.mygitportfolio
+package com.devtvas.mygitportfolio.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.devtvas.mygitportfolio.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
